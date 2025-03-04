@@ -1,0 +1,38 @@
+name: CI/CD testing
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  xây-dựng-và-kiểm-thử:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Thiết lập .NET SDK
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0'
+
+      - name: Khôi phục các phụ thuộc
+        run: dotnet restore
+
+      - name: Xây dựng
+        run: dotnet build --configuration Release --no-restore
+
+      - name: Chạy kiểm thử
+        run: dotnet test Test/Test.csproj --logger "trx;LogFileName=test_results.trx" 
+        working-directory: ./  
+
+      - name: Xuất bản báo cáo kiểm thử
+        uses: dorny/test-reporter@v1
+        if: always() 
+        with:
+          name: Test Results
+          path: "**/*.trx" 
+          reporter: dotnet-trx
+          fail-on-error: true 
