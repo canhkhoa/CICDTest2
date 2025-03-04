@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\hoc\\KTNC\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08EF6C-3E9D-4987-B0FF-465DAE3C063E}|Test\\Test.csproj|d:\\hoc\\ktnc\\test\\test\\testwebdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C08EF6C-3E9D-4987-B0FF-465DAE3C063E}|Test\\Test.csproj|solutionrelative:test\\testwebdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08EF6C-3E9D-4987-B0FF-465DAE3C063E}|Test\\Test.csproj|d:\\hoc\\ktnc\\test\\test\\feecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C08EF6C-3E9D-4987-B0FF-465DAE3C063E}|Test\\Test.csproj|solutionrelative:test\\feecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08EF6C-3E9D-4987-B0FF-465DAE3C063E}|Test\\Test.csproj|d:\\hoc\\ktnc\\test\\test\\feecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C08EF6C-3E9D-4987-B0FF-465DAE3C063E}|Test\\Test.csproj|solutionrelative:test\\feecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C08EF6C-3E9D-4987-B0FF-465DAE3C063E}|Test\\Test.csproj|d:\\hoc\\ktnc\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C08EF6C-3E9D-4987-B0FF-465DAE3C063E}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestWebDriver.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\Test\\Test\\TestWebDriver.cs",
+              "RelativeDocumentMoniker": "Test\\TestWebDriver.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\Test\\Test\\TestWebDriver.cs",
+              "RelativeToolTip": "Test\\TestWebDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:24:43.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeeCalculatorTests.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\Test\\Test\\FeeCalculatorTests.cs",
+              "RelativeDocumentMoniker": "Test\\FeeCalculatorTests.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\Test\\Test\\FeeCalculatorTests.cs",
+              "RelativeToolTip": "Test\\FeeCalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:55:20.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeeCalculator.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\Test\\Test\\FeeCalculator.cs",
+              "RelativeDocumentMoniker": "Test\\FeeCalculator.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\Test\\Test\\FeeCalculator.cs",
+              "RelativeToolTip": "Test\\FeeCalculator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAMBSwC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:50:38.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:50:07.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
